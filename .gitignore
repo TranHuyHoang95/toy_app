@@ -12,7 +12,9 @@
 
 # Used by dotenv library to load environment variables.
 # .env
-
+/.framgia-ci-reports/
+.framgia-ci-result.temp.yml
+/config/database.yml
 # Ignore Byebug command history file.
 .byebug_history
 
